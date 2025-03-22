@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Telemarketing in AeC.
+- 🔭 I currently work in IT support.
 - 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on projects.
 - 🤔 I’m looking for help with JavaScript and TypeScript
